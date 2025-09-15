@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         TwitCasting Link Fix
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.3
 // @description  サポートリストのアイコン・ユーザー名クリック時にプロフィールを表示せずにライブページを直接開く（以前の挙動に戻す）
 // @match        https://twitcasting.tv/*
 // @grant        none
 // @icon         https://raw.githubusercontent.com/rie0924/TwitCasting-Link-Fix/main/twitcas_bigger_1.png
+// @homepage     https://github.com/rie0924/TwitCasting-Link-Fix
 // @license      MIT
 // ==/UserScript==
 
