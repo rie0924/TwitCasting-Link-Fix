@@ -2,7 +2,7 @@
 // @name         TwitCasting Link Fix
 // @namespace    http://tampermonkey.net/
 // @version      1.02
-// @description  twicasサポートリストのアイコン・ユーザー名クリック時にプロフィールを表示せずにライブページを直接開く
+// @description  ツイキャスのサポートリストでアイコン・ユーザー名クリック時にプロフィールを表示せずにライブページを直接開く
 // @author       RIE_0924
 // @homepage     https://github.com/rie0924/TwitCasting-Link-Fix
 // @match        https://twitcasting.tv/*
